@@ -1,0 +1,12 @@
+.logo {
+    height: 40px;
+    width: auto ;
+}
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('assets/fonts/BBHSansBartle-Regular.ttf');
+}
+
+.font-custom{
+    font-family: 'MyCustomFont';
+}
